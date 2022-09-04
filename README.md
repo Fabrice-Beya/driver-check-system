@@ -3,5 +3,5 @@
  
  - Add new checkpoints
  - Perform a check in against a driver id
- - Generate a spreadsheet of drivers daily fees in constant time
- - Generate a spreadsheet of driver total fees in constant time
+ - Generate a spreadsheet of all drivers daily fees in O(n) time
+ - Generate a spreadsheet of all driver total fees in O(n) time
